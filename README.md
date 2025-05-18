@@ -83,7 +83,7 @@ Dr. M.G.R. Educational and Research Institute, Chennai
 
 - 📧 khwajanawaz82@gmail.com  
 - 💼 [GitHub](https://github.com/khwajanawaz)
-- 🔗 LinkedIn (Add your link here!)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khwaja-nawaz-389579244/)
 
 ---
 
