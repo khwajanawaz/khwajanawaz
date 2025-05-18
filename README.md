@@ -68,16 +68,17 @@ Currently working towards a **Master's in Computer Science (UK aspirant)** with 
 
 ## 📂 Notable Projects
 
+### ✅ [CI/CD Pipeline for Node.js App](https://github.com/khwajanawaz/todo-app-part1.git)
+> CI/CD pipeline using AWS CodePipeline for zero-downtime Node.js deployments.
+
+- Automated tests, blue-green deployment, secure GitHub integrations
+
+
 ### ✅ [VoiceShield: Women’s Safety App](https://github.com/khwajanawaz/women-s-safety-app.git)
 > A voice-activated Android app built with Flutter and Firebase for emergency alerts.
 
 - Secret voice triggers, real-time GPS tracking, role-based login (User, Police, Neighbor)
 - Firebase Auth, Realtime DB, and stress-tested under poor network conditions
-
-### ✅ [CI/CD Pipeline for Node.js App](https://github.com/khwajanawaz/todo-app-part1.git)
-> CI/CD pipeline using AWS CodePipeline for zero-downtime Node.js deployments.
-
-- Automated tests, blue-green deployment, secure GitHub integrations
 
 ---
 
