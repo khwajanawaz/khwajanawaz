@@ -22,19 +22,40 @@ Currently working towards a **Master's in Computer Science (UK aspirant)** with 
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technical Arsenal
 
-| Domain                | Tools & Technologies |
-|----------------------|----------------------|
-| Cloud                | AWS, GCP (Basics)    |
-| Container & Infra    | Docker, Kubernetes, Ansible, Terraform |
-| CI/CD & Automation   | Jenkins, GitHub Actions, Maven |
-| Web Dev              | HTML, CSS, PHP, MySQL |
-| Mobile Dev           | Flutter, Firebase, Android Studio |
-| Monitoring           | Prometheus, Grafana |
-| Version Control      | Git, GitHub |
-| OS                   | Linux (Ubuntu), Windows |
-| Languages            | Python, Shell Script, Bash |
+### 🖥️ OS & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900&style=for-the-badge)
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+### 💻 Programming & Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+
+### 🏗 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FB9C07?logo=aws&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
+
+### 🚀 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge)
+
+### 🔐 Security & Compliance
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?logo=OWASP&logoColor=white&style=for-the-badge)
+![Trivy](https://img.shields.io/badge/Trivy-0014A8?logo=trivy&logoColor=white&style=for-the-badge)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+
 
 ---
 
