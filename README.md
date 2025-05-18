@@ -1,6 +1,10 @@
 # 👨‍💻 Khwaja Nawaz | DevOps Enthusiast & Cloud Engineer
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Automating+The+World+With+DevOps)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Automating+The+World+With+DevOps)](https://git.io/typing-svg)
+
+</div>
 
 🚀 Passionate about automating infrastructure, securing systems, and building scalable applications.  
 🎯 Focused on solving real-world problems with technology that matters.
