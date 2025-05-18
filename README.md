@@ -4,12 +4,6 @@
 🎯 Focused on solving real-world problems with technology that matters.
 
 ---
-![Khwaja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khwajanawaz&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=khwajanawaz&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khwajanawaz&layout=compact&theme=radical)
----
 ## 🌟 About Me
 
 I'm **Khwaja Nawaz**, a Computer Science graduate from Dr. M.G.R. Educational and Research Institute, Chennai. I specialize in **cloud computing**, **DevOps**, and **web/mobile app development**. I thrive on building meaningful, scalable, and secure solutions—whether it’s deploying CI/CD pipelines on AWS or creating voice-activated safety apps.
