@@ -12,9 +12,11 @@
 ---
 ## 🌟 About Me
 
-I'm **Khwaja Nawaz**, a Computer Science graduate from Dr. M.G.R. Educational and Research Institute, Chennai. I specialize in **cloud computing**, **DevOps**, and **web/mobile app development**. I thrive on building meaningful, scalable, and secure solutions—whether it’s deploying CI/CD pipelines on AWS or creating voice-activated safety apps.
+I'm Khwaja Nawaz, a Computer Science graduate, currently pursuing my MSc in Cloud Computing at Newcastle University, UK.
 
-Currently working towards a **Master's in Computer Science (UK aspirant)** with a strong foundation in full-stack development, cloud infrastructure, and automation.
+I’m deeply passionate about Cloud Computing, DevOps, and AWS, focusing on designing, automating, and securing modern cloud infrastructures. My work centers around building scalable CI/CD pipelines, implementing infrastructure as code.
+
+Driven by curiosity and innovation, I strive to build resilient, automated, and high-performance cloud environments that accelerate digital transformation and operational excellence.
 
 ---
 
