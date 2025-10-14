@@ -93,8 +93,8 @@ Driven by curiosity and innovation, I strive to build resilient, automated, and 
 ## 🎓 Education
 
 **B.Tech – Computer Science**  
-Pursuing my MSc in Cloud Computing at Newcastle University, UK.
-Dr. M.G.R. Educational and Research Institute, Chennai  
+- Pursuing my MSc in Cloud Computing at Newcastle University, UK.
+- Dr. M.G.R. Educational and Research Institute, Chennai  
 📅 2021 – 2025 | 🎓 CGPA: 8.17/10
 
 ---
