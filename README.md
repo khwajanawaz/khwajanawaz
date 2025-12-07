@@ -48,32 +48,7 @@ I love working on:
 ---
 
 <h2>🛠 Tech Stack</h2>
-
-<style>
-.icon-box {
-  display: inline-block;
-  width: 90px;
-  text-align: center;
-  margin: 6px;
-}
-.icon-box img {
-  width: 48px;
-  height: 48px;
-}
-.icon-box span {
-  display: block;
-  margin-top: 4px;
-  font-size: 14px;
-}
-</style>
-
-<!-- CLOUD & PLATFORMS -->
-<h3>☁️ Cloud & Platforms</h3>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=aws"/><span>AWS</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=azure"/><span>Azure</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=linux"/><span>Linux</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=ubuntu"/><span>Ubuntu</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=windows"/><span>Windows</span></div>
+<p align="left"> <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><sub>AWS</sub></a>&nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br><sub>Azure</sub></a>&nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br><sub>Linux</sub></a>&nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br><sub>Ubuntu</sub></a>&nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=windows" width="48"/><br><sub>Windows</sub></a>&nbsp;&nbsp; </p>
 
 <!-- DEVOPS -->
 <h3>📦 DevOps, Containers & Orchestration</h3>
