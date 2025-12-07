@@ -47,36 +47,43 @@ I love working on:
 
 ---
 
-<h2>🛠 Tech Stack</h2>
-<p align="left"> <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><sub>AWS</sub></a>&nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br><sub>Azure</sub></a>&nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br><sub>Linux</sub></a>&nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br><sub>Ubuntu</sub></a>&nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=windows" width="48"/><br><sub>Windows</sub></a>&nbsp;&nbsp; </p>
+## 🛠 Tech Stack
 
-<!-- DEVOPS -->
-<h3>📦 DevOps, Containers & Orchestration</h3>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=git"/><span>Git</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=github"/><span>GitHub</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=jenkins"/><span>Jenkins</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=githubactions"/><span>GitHub Actions</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=docker"/><span>Docker</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=kubernetes"/><span>Kubernetes</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=helm"/><span>Helm</span></div>
+### ☁️ Cloud & Platforms
 
-<!-- IAC -->
-<h3>🧩 Infrastructure as Code & Config Management</h3>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=terraform"/><span>Terraform</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=ansible"/><span>Ansible</span></div>
-<div class="icon-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chef/chef-original.svg"/><span>Chef</span></div>
+| ![AWS](https://skillicons.dev/icons?i=aws) | ![Azure](https://skillicons.dev/icons?i=azure) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Windows](https://skillicons.dev/icons?i=windows) |
+| :-: | :-: | :-: | :-: | :-: |
+| **AWS** | **Azure** | **Linux** | **Ubuntu** | **Windows** |
 
-<!-- PROGRAMMING -->
-<h3>💻 Programming & Scripting</h3>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=python"/><span>Python</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=bash"/><span>Bash</span></div>
-<div class="icon-box"><img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white" height="40"/><span>Shell Script</span></div>
 
-<!-- MONITORING -->
-<h3>📊 Monitoring, Build & Others</h3>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=prometheus"/><span>Prometheus</span></div>
-<div class="icon-box"><img src="https://skillicons.dev/icons?i=grafana"/><span>Grafana</span></div>
-<div class="icon-box"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/><span>Maven</span></div>
+### 📦 DevOps, Containers & Orchestration
+
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Helm](https://skillicons.dev/icons?i=helm) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Git** | **GitHub** | **Jenkins** | **GitHub Actions** | **Docker** | **Kubernetes** | **Helm** |
+
+
+### 🧩 Infrastructure as Code & Config Management
+
+| ![Terraform](https://skillicons.dev/icons?i=terraform) | ![Ansible](https://skillicons.dev/icons?i=ansible) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chef/chef-original.svg" width="48"/> |
+| :-: | :-: | :-: |
+| **Terraform** | **Ansible** | **Chef** |
+
+
+### 💻 Programming & Scripting
+
+| ![Python](https://skillicons.dev/icons?i=python) | ![Bash](https://skillicons.dev/icons?i=bash) | <img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white" height="24"/> |
+| :-: | :-: | :-: |
+| **Python** | **Bash** | **Shell Scripting** |
+
+
+### 📊 Monitoring, Build & Others
+
+| ![Prometheus](https://skillicons.dev/icons?i=prometheus) | ![Grafana](https://skillicons.dev/icons?i=grafana) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48"/> |
+| :-: | :-: | :-: |
+| **Prometheus** | **Grafana** | **Maven** |
+
+
 
 ---
 
