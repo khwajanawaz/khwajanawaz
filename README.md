@@ -93,7 +93,7 @@ I love working on:
 ---
 
 
-## 🟩 <a href="https://github.com/khwajanawaz/IoT-Edge-Cloud-Machine-Learning-Pipeline.git">IoT–Edge–Cloud Machine Learning Pipeline</a>
+## ✅ <a href="https://github.com/khwajanawaz/IoT-Edge-Cloud-Machine-Learning-Pipeline.git">IoT–Edge–Cloud Machine Learning Pipeline</a>
 
 <p><strong>Tech:</strong> IoT, Docker, MQTT/EMQX, RabbitMQ, Python, Machine Learning, TensorFlow Lite</p>
 
