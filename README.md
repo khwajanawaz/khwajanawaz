@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/khwajanawaz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Automating+the+World+with+DevOps;Designing+Scalable+Multi-Cloud+Systems;turning+Ideas+into+Production-Ready+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Automating+the+World+with+DevOps;Designing+Scalable+Multi-Cloud+Systems;Production-Ready+Pipelines" alt="Typing SVG" />
   </a>
 </p>
 
