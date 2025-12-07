@@ -92,11 +92,18 @@ I love working on:
 
 ---
 
-### ✅ [VoiceShield – Women’s Safety App](https://github.com/khwajanawaz/women-s-safety-app)
-**Tech:** Flutter, Firebase, Google Maps API  
-- **Voice-triggered emergency alerts** with secret keywords  
-- Real-time **GPS tracking** & multi-role access: User, Police, Neighbor  
-- Built with a focus on **safety, reliability & low-network conditions**
+
+###✅ <a href="https://github.com/khwajanawaz/IoT-Edge-Cloud-Machine-Learning-Pipeline.git">IoT–Edge–Cloud Machine Learning Pipeline</a></h3>
+
+<p><strong>Tech:</strong> IoT, Docker, MQTT/EMQX, RabbitMQ, Python, Machine Learning, TensorFlow Lite</p>
+
+<ul>
+  <li>Built a full IoT data pipeline across <strong>Edge → Cloud</strong> with real-time PM2.5 processing</li>
+  <li>Implemented <strong>data injector, preprocessing, ML prediction, and edge inference</strong></li>
+  <li>Used Docker microservices, EMQX, RabbitMQ for messaging, and <strong>Prophet/TensorFlow Lite</strong> for ML</li>
+  <li>Visualized air-quality trends & predictions with <strong>Matplotlib</strong></li>
+  <li>Designed a scalable, modular architecture for real-time IoT analytics</li>
+</ul>
 
 ---
 
