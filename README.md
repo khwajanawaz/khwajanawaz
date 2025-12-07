@@ -49,51 +49,61 @@ I love working on:
 
 <h2>🛠 Tech Stack</h2>
 
-<!-- Cloud & Platforms -->
+<!-- ---------------- CLOUD & PLATFORMS ---------------- -->
 <h3>☁️ Cloud & Platforms</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br>Azure</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="48"/><br>Ubuntu</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="48"/><br>Windows</td>
+  </tr>
+</table>
 
-<!-- DevOps, Containers & Orchestration -->
+<!-- ---------------- DEVOPS ---------------- -->
 <h3>📦 DevOps, Containers & Orchestration</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="55" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>Jenkins</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=helm" width="48"/><br>Helm</td>
+  </tr>
+</table>
 
-<!-- IaC & Config Management -->
+<!-- ---------------- IAC ---------------- -->
 <h3>🧩 Infrastructure as Code & Config Management</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chef/chef-original.svg" width="55" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>Terraform</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="48"/><br>Ansible</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chef/chef-original.svg" width="48"/><br>Chef</td>
+  </tr>
+</table>
 
-<!-- Programming & Scripting -->
+<!-- ---------------- PROGRAMMING ---------------- -->
 <h3>💻 Programming & Scripting</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" />
-  <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=flat&logo=gnu-bash&logoColor=white" height="30"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash</td>
+    <td align="center"><img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white" height="26"/><br>Shell Scripting</td>
+  </tr>
+</table>
 
-<!-- Monitoring, Build & Others -->
+<!-- ---------------- MONITORING ---------------- -->
 <h3>📊 Monitoring, Build & Others</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="48"/><br>Prometheus</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="48"/><br>Grafana</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48"/><br>Maven</td>
+  </tr>
+</table>
 
 
 ---
