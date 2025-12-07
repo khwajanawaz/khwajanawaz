@@ -58,14 +58,14 @@ I love working on:
 
 ### 📦 DevOps, Containers & Orchestration
 
-| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Helm](https://skillicons.dev/icons?i=helm) |
+| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.png" width="48"/> |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Git** | **GitHub** | **Jenkins** | **GitHub Actions** | **Docker** | **Kubernetes** | **Helm** |
 
 
 ### 🧩 Infrastructure as Code & Config Management
 
-| ![Terraform](https://skillicons.dev/icons?i=terraform) | ![Ansible](https://skillicons.dev/icons?i=ansible) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chef/chef-original.svg" width="48"/> |
+| ![Terraform](https://skillicons.dev/icons?i=terraform) | ![Ansible](https://skillicons.dev/icons?i=ansible) | <img src="https://raw.githubusercontent.com/chef/chef-web-docs/main/static/img/icons/chef-logo.png" width="48"/> |
 | :-: | :-: | :-: |
 | **Terraform** | **Ansible** | **Chef** |
 
