@@ -65,9 +65,12 @@ I love working on:
 
 ### 🧩 Infrastructure as Code & Config Management
 
-| ![Terraform](https://skillicons.dev/icons?i=terraform) | ![Ansible](https://skillicons.dev/icons?i=ansible) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chef/chef-original.svg" width="48"/> |
+| ![Terraform](https://skillicons.dev/icons?i=terraform) 
+| ![Ansible](https://skillicons.dev/icons?i=ansible) 
+| <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/chef.png" width="48"/> |
 | :-: | :-: | :-: |
 | **Terraform** | **Ansible** | **Chef** |
+
 
 
 
