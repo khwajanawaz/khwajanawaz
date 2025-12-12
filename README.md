@@ -92,6 +92,28 @@ I love working on:
 
 ## 📂 Featured Projects
 
+<hr>
+
+<h3>✅ Cloud Computing Project – Kubernetes Benchmarking</h3>
+
+<p><strong>Tech:</strong> Kubernetes, MicroK8s, Docker, Prometheus, Grafana, Node Exporter, kube-state-metrics, Python, YAML, Linux</p>
+
+<ul>
+  <li>Deployed a complete <strong>Kubernetes benchmarking environment</strong> using MicroK8s.</li>
+  <li>Implemented a <strong>Java-based benchmark application</strong> exposed via NodePort.</li>
+  <li>Built a <strong>custom load generator</strong> to generate continuous traffic and simulate real workload.</li>
+  <li>Configured <strong>Prometheus</strong> to scrape metrics from Node Exporter and kube-state-metrics.</li>
+  <li>Visualised <strong>CPU, memory, and system performance</strong> in real time using Grafana dashboards.</li>
+  <li>Automated load testing lifecycle with <strong>start, stop, and status shell scripts</strong>.</li>
+  <li>Demonstrated clear performance impact under load and recovery after load termination.</li>
+</ul>
+
+<p>
+📊 <strong>Key Outcomes:</strong>  
+Real-time observability of application and node-level metrics, validated performance behaviour under sustained load, and a fully reproducible Kubernetes monitoring and benchmarking workflow.
+</p>
+
+
 ### ✅ [CI/CD Pipeline for Node.js App](https://github.com/khwajanawaz/todo-app-part1)
 **Tech:** AWS CodePipeline, EC2, S3, GitHub, Node.js  
 - End-to-end **CI/CD pipeline** for a Node.js application  
