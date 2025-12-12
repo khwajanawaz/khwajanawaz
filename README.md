@@ -111,7 +111,7 @@ Cloud Computing Project – Kubernetes Benchmarking
 </ul>
 
 <p><strong>📊 Key Outcomes:</strong> Real-time observability of application and node-level metrics, validated performance behaviour under sustained load, and a reproducible monitoring + benchmarking workflow.</p
-
+---
 
 ### ✅ [CI/CD Pipeline for Node.js App](https://github.com/khwajanawaz/todo-app-part1)
 **Tech:** AWS CodePipeline, EC2, S3, GitHub, Node.js  
