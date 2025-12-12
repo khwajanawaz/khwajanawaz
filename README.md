@@ -110,7 +110,8 @@ Cloud Computing Project – Kubernetes Benchmarking
   <li>Demonstrated clear performance impact under load and recovery after load termination.</li>
 </ul>
 
-<p><strong>📊 Key Outcomes:</strong> Real-time observability of application and node-level metrics, validated performance behaviour under sustained load, and a reproducible monitoring + benchmarking workflow.</p
+<p><strong>📊 Key Outcomes:</strong> Real-time observability of application and node-level metrics, validated performance behaviour under sustained load, and a reproducible monitoring + benchmarking workflow.</p>
+                                                                                                                                                                                                                 
 ---
 
 ### ✅ [CI/CD Pipeline for Node.js App](https://github.com/khwajanawaz/todo-app-part1)
