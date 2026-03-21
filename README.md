@@ -35,7 +35,7 @@
 - Achieved **zero-downtime deployments** with Blue-Green strategy  
 - Deployed **microservices on Kubernetes (EKS-ready architecture)**  
 - Built **real-time monitoring system** using Prometheus & Grafana  
-- Performed **load testing (k6 / Locust)** and validated autoscaling  
+- Performed **load testing (Locust)** and validated autoscaling  
 - Implemented **disaster recovery** using Velero (S3 backups + restore)  
 
 💡 This project demonstrates real-world DevOps practices including **automation, scalability, security, observability, and reliability**.
