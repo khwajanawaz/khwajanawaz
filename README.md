@@ -20,6 +20,28 @@
 
 ---
 
+![Achievement](https://img.shields.io/badge/🚀%20Achievement-Production%20DevOps%20Platform-blue?style=for-the-badge)
+
+## 🚀 New Achievement Unlocked
+
+🎯 Successfully built and deployed a **Production-Grade DevOps CI/CD Platform on AWS**
+
+### 🔥 Highlights
+- Implemented **end-to-end CI/CD pipeline** using Jenkins & GitHub  
+- Automated **Docker build → security scan (Trivy) → push to Docker Hub**  
+- Designed **GitOps-based deployment** using Argo CD  
+- Achieved **zero-downtime deployments** with Blue-Green strategy  
+- Deployed **microservices on Kubernetes (EKS-ready architecture)**  
+- Built **real-time monitoring system** using Prometheus & Grafana  
+- Performed **load testing (k6 / Locust)** and validated autoscaling  
+- Implemented **disaster recovery** using Velero (S3 backups + restore)  
+
+💡 This project demonstrates real-world DevOps practices including **automation, scalability, security, observability, and reliability**.
+
+
+🔗 **Project Link:**  
+👉 https://github.com/khwajanawaz/Production-Grade-DevOps-CI-CD-Platform-with-GitOps-Kubernetes-Zero-Downtime-Deployment
+
 ## 🌟 About Me
 
 I'm **Khwaja Nawaz**, a DevOps & Cloud Engineer currently pursuing my  
