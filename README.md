@@ -405,7 +405,7 @@ Foundation in:
 🇵🇰 Urdu          Native / Mother tongue
 🇮🇳 Hindi         Fluent
 🇮🇳 Tamil         Fluent
-🕋 Arabic         Reading proficiency
+ Arabic         Reading proficiency
 ```
 
 ---
