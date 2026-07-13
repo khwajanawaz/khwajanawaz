@@ -1,200 +1,439 @@
+<!-- ========================= HEADER ========================= -->
 
-# 👨‍💻 Khwaja Nawaz
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:3F51B5,100:8E2DE2&height=210&section=header&text=Khwaja%20Nawaz&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=DevOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20AI%20Infrastructure&descAlignY=58&animation=fadeIn" width="100%" />
+</p>
 
-<h3 align="center">DevOps & Cloud Engineer | MSc Cloud Computing @ Newcastle University (UK)</h3>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/khwajanawaz.png" width="145" alt="Khwaja Nawaz GitHub Avatar"/>
+    </td>
+    <td>
+      <h1>Hi, I'm Khwaja Nawaz 👋</h1>
+      <p>
+        <b>DevOps & Cloud Engineer</b><br>
+        MSc Cloud Computing @ Newcastle University, United Kingdom 🇬🇧
+      </p>
+      <p>
+        Building secure, scalable and intelligent cloud-native systems.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/khwajanawaz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Automating+the+World+with+DevOps;Designing+Scalable+Multi-Cloud+Systems;Production-Ready+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Automating+Infrastructure+with+DevOps;Building+Secure+Kubernetes+Platforms;Designing+Cloud-Native+Systems+on+AWS;Combining+AI%2C+Zero-Trust+and+Cloud+Security;Creating+Production-Ready+CI%2FCD+Pipelines" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/khwajanawaz">
-    <img src="https://komarev.com/ghpvc/?username=khwajanawaz&style=for-the-badge&color=0e75b6" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=khwajanawaz&label=PROFILE+VIEWS&style=for-the-badge&color=00b4d8" alt="Profile views"/>
   </a>
   <a href="https://github.com/khwajanawaz?tab=followers">
-    <img src="https://img.shields.io/github/followers/khwajanawaz?logo=github&style=for-the-badge" alt="followers" />
+    <img src="https://img.shields.io/github/followers/khwajanawaz?label=FOLLOWERS&style=for-the-badge&logo=github&color=6c63ff" alt="Followers"/>
+  </a>
+  <a href="mailto:khwajanawaz82@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+---
+
+## `~/about` — A Bit About Me
+
+```yaml
+name: Khwaja Nawaz
+
+location: Newcastle upon Tyne, United Kingdom 🇬🇧
+
+education:
+  current:
+    degree: MSc Cloud Computing
+    university: Newcastle University
+    country: United Kingdom
+
+  completed:
+    degree: B.Tech Computer Science and Engineering
+    university: Dr. M.G.R. Educational and Research Institute
+    country: India
+
+current_focus:
+  - DevOps and Platform Engineering
+  - Kubernetes and Cloud-Native Infrastructure
+  - Amazon Web Services
+  - Infrastructure Automation
+  - AI-Assisted Cloud Security
+  - Zero-Trust Deployment Systems
+
+research_interests:
+  - Cloud Computing
+  - Distributed Systems
+  - Kubernetes Security
+  - AIOps
+  - DevSecOps
+  - Workflow Orchestration
+  - Autonomous Infrastructure
+```
+
+> I enjoy turning complex infrastructure problems into secure, automated and reliable cloud platforms.
+
+---
+
+## `~/featured-research` — MSc Dissertation
+
+<h3 align="center">
+  🤖 AI-Driven Zero-Trust Kubernetes Deployment Framework
+</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Achievement-Production%20DevOps%20Platform-blue?style=for-the-badge" />
+  <b>FastAPI · Temporal · OpenAI · OPA · Docker · Kubernetes · GitHub Actions · Amazon EKS</b>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/khwajanawaz/ai-zero-trust-kubernetes-deployment">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-AI_ZERO_TRUST_KUBERNETES-00b4d8?style=for-the-badge&logo=kubernetes&logoColor=white" alt="View project"/>
+  </a>
+</p>
 
-## 🚀 New Achievement Unlocked
+<table>
+  <tr>
+    <td width="50%">
 
-🎯 Successfully built and deployed a **Production-Grade DevOps CI/CD Platform on AWS**
+### 🔐 Security & Governance
 
-### 🔥 Highlights
-- Implemented **end-to-end CI/CD pipeline** using Jenkins & GitHub  
-- Automated **Docker build → security scan (Trivy) → push to Docker Hub**  
-- Designed **GitOps-based deployment** using Argo CD  
-- Achieved **zero-downtime deployments** with Blue-Green strategy  
-- Deployed **microservices on Kubernetes (EKS-ready architecture)**  
-- Built **real-time monitoring system** using Prometheus & Grafana  
-- Performed **load testing (Locust)** and validated autoscaling  
-- Implemented **disaster recovery** using Velero (S3 backups + restore)  
+- Kubernetes YAML validation
+- AI-powered security risk analysis
+- Policy-as-Code using Open Policy Agent
+- Human-in-the-loop approval
+- Zero-Trust deployment decisions
+- Audit-ready workflow execution
 
-💡 This project demonstrates real-world DevOps practices including **automation, scalability, security, observability, and reliability**.
+    </td>
+    <td width="50%">
 
+### ☁️ Cloud & Orchestration
 
-🔗 **Project Link:**  
-👉 https://github.com/khwajanawaz/Production-Grade-DevOps-CI-CD-Platform-with-GitOps-Kubernetes-Zero-Downtime-Deployment
+- Temporal workflow orchestration
+- FastAPI deployment gateway
+- Dockerized API and worker services
+- Deployment to Amazon EKS
+- Workflow state management
+- End-to-end deployment verification
 
-## 🌟 About Me
+    </td>
+  </tr>
+</table>
 
-I'm **Khwaja Nawaz**, a DevOps & Cloud Engineer currently pursuing my  
-🎓 **MSc in Cloud Computing – Newcastle University, United Kingdom**  
-🎓 **B.Tech in Computer Science & Engineering – India (Completed)**  
+### Key contribution
 
-I love working on:
-
-- 🚀 **CI/CD pipelines** that take code from *commit → test → deploy* with zero friction  
-- ☁️ **Cloud-native architectures** on **AWS** (and exploring **Azure**)  
-- 🐳 **Containers + Kubernetes** for scalable, self-healing systems  
-- 🛡 **DevSecOps practices** that keep everything secure end-to-end  
-
-> I’m obsessed with automation, reliability, and real-world problem solving – from backend pipelines to full-stack apps like **VoiceShield**.
-
----
-
-## 🔭 What I’m Doing Right Now
-
-- 🏗 Building **CI/CD pipelines** with **Jenkins**, **GitHub Actions**, and **AWS CodePipeline**
-- ☁️ Designing **AWS architectures** with **EC2, S3, EKS, VPC, ALB, Auto Scaling**
-- 🐳 Running **Dockerized applications** and deploying them on **Kubernetes**
-- 📊 Setting up **Prometheus + Grafana** dashboards for metrics & alerting
-- 📚 Deep-diving into **Terraform, DevSecOps, and multi-cloud (AWS + Azure)**
+The framework ensures that Kubernetes workloads are not deployed directly to the cluster. Every manifest must pass structural validation, AI analysis, OPA policy enforcement and administrator approval before deployment to Amazon EKS.
 
 ---
 
-## 🛠 Tech Stack
+## `~/achievement` — Production DevOps Platform
+
+<h3 align="center">
+  🚀 Production-Grade DevOps CI/CD Platform on AWS
+</h3>
+
+<p align="center">
+  <a href="https://github.com/khwajanawaz/Production-Grade-DevOps-CI-CD-Platform-with-GitOps-Kubernetes-Zero-Downtime-Deployment">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-PRODUCTION_DEVOPS_PLATFORM-6c63ff?style=for-the-badge&logo=githubactions&logoColor=white" alt="Production DevOps project"/>
+  </a>
+</p>
+
+- Implemented an end-to-end CI/CD pipeline using Jenkins and GitHub.
+- Automated Docker build, Trivy security scanning and Docker Hub publishing.
+- Designed GitOps-based deployment using Argo CD.
+- Implemented Blue-Green deployment for zero-downtime releases.
+- Deployed microservices using Kubernetes.
+- Built real-time monitoring with Prometheus and Grafana.
+- Performed load testing using Locust.
+- Implemented disaster recovery using Velero and Amazon S3.
+
+> This project demonstrates automation, security, observability, scalability, reliability and recovery in a production-style DevOps environment.
+
+---
+
+## `~/stack` — Technologies I Work With
 
 ### ☁️ Cloud & Platforms
 
-| ![AWS](https://skillicons.dev/icons?i=aws) | ![Azure](https://skillicons.dev/icons?i=azure) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Windows](https://skillicons.dev/icons?i=windows) |
-| :-: | :-: | :-: | :-: | :-: |
-| **AWS** | **Azure** | **Linux** | **Ubuntu** | **Windows** |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,windows&perline=5" alt="Cloud platforms"/>
+</p>
 
+<p align="center">
+  AWS · Azure · Amazon EKS · EC2 · S3 · IAM · VPC · ALB · Auto Scaling · CloudWatch
+</p>
 
-### 📦 DevOps, Containers & Orchestration
+### 🐳 DevOps, Containers & Orchestration
 
-| ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) | ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.png" width="48"/> |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Git** | **GitHub** | **Jenkins** | **GitHub Actions** | **Docker** | **Kubernetes** | **Helm** |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes&perline=6" alt="DevOps tools"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
+</p>
 
-### 🧩 Infrastructure as Code & Config Management
+### 🏗️ Infrastructure as Code & Automation
 
-| ![Terraform](https://skillicons.dev/icons?i=terraform) | ![Ansible](https://skillicons.dev/icons?i=ansible) |
-| :-: | :-: |
-| **Terraform** | **Ansible** |
-
-
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible&perline=2" alt="Infrastructure as Code"/>
+</p>
 
 ### 💻 Programming & Scripting
 
-| ![Python](https://skillicons.dev/icons?i=python) | ![Bash](https://skillicons.dev/icons?i=bash) | <img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white" height="24"/> |
-| :-: | :-: | :-: |
-| **Python** | **Bash** | **Shell Scripting** |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,java&perline=3" alt="Programming languages"/>
+</p>
 
-
-### 📊 Monitoring, Build & Others
-
-| ![Prometheus](https://skillicons.dev/icons?i=prometheus) | ![Grafana](https://skillicons.dev/icons?i=grafana) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48"/> |
-| :-: | :-: | :-: |
-| **Prometheus** | **Grafana** | **Maven** |
-
-
-
----
-
-## 📂 Featured Projects
-
-<hr>
-
-<h3>✅ <a href="https://github.com/khwajanawaz/cloud_computing-project" target="_blank" rel="noopener noreferrer">
-Cloud Computing Project – Kubernetes Benchmarking
-</a></h3>
-
-<p><strong>Tech:</strong> Kubernetes, MicroK8s, Docker, Prometheus, Grafana, Node Exporter, kube-state-metrics, Python, YAML, Linux</p>
-
-<ul>
-  <li>Deployed a complete Kubernetes benchmarking environment using MicroK8s.</li>
-  <li>Implemented a Java-based benchmark application exposed via NodePort.</li>
-  <li>Built a custom load generator to generate continuous traffic and simulate real workload.</li>
-  <li>Configured Prometheus to scrape metrics from Node Exporter and kube-state-metrics.</li>
-  <li>Visualised CPU, memory, and system performance in real time using Grafana dashboards.</li>
-  <li>Automated load testing lifecycle with start, stop, and status shell scripts.</li>
-  <li>Demonstrated clear performance impact under load and recovery after load termination.</li>
-</ul>
-
-<p><strong>📊 Key Outcomes:</strong> Real-time observability of application and node-level metrics, validated performance behaviour under sustained load, and a reproducible monitoring + benchmarking workflow.</p>
-                                                                                                                                                                                                                 
----
-
-### ✅ [CI/CD Pipeline for Node.js App](https://github.com/khwajanawaz/todo-app-part1)
-**Tech:** AWS CodePipeline, EC2, S3, GitHub, Node.js  
-- End-to-end **CI/CD pipeline** for a Node.js application  
-- Automated builds, tests & deployments with **minimal downtime**  
-- Integrated version control, artifact storage, and environment promotion
-
----
-
-
-## ✅ <a href="https://github.com/khwajanawaz/IoT-Edge-Cloud-Machine-Learning-Pipeline.git">IoT–Edge–Cloud Machine Learning Pipeline</a>
-
-<p><strong>Tech:</strong> IoT, Docker, MQTT/EMQX, RabbitMQ, Python, Machine Learning, TensorFlow Lite</p>
-
-<ul>
-  <li>Built a full IoT data pipeline across <strong>Edge → Cloud</strong> with real-time PM2.5 processing</li>
-  <li>Implemented <strong>data injector, preprocessing, ML prediction, and edge inference</strong></li>
-  <li>Used Docker microservices, EMQX, RabbitMQ for messaging, and <strong>Prophet/TensorFlow Lite</strong> for ML</li>
-  <li>Visualized air-quality trends & predictions with <strong>Matplotlib</strong></li>
-  <li>Designed a scalable, modular architecture for real-time IoT analytics</li>
-</ul>
-
----
-
-## 🎓 Education
-
-- 🎓 **MSc in Cloud Computing** – *Newcastle University, United Kingdom*  
-- 🎓 **B.Tech in Computer Science & Engineering** – *Dr. M.G.R. Educational & Research Institute, Chennai, India*  
-
----
-
-## 📊 GitHub Analytics
+### 📊 Monitoring, Security & Reliability
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khwajanawaz&show_icons=true&theme=radical&hide_border=true" alt="Nawaz's GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=2" alt="Monitoring tools"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khwajanawaz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Open_Policy_Agent-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Velero-00ADEF?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Locust-2A7B3F?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🤖 AI & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,python&perline=2" alt="AI and backend"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Risk_Analysis-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Cloud_AI-00B4D8?style=for-the-badge" />
 </p>
 
 ---
 
-## 🗣️ Languages
+## `~/projects` — Things I Have Built
 
-- 🇬🇧 English (Fluent)  
-- 🇮🇳 Hindi, Tamil (Fluent)  
-- 🇵🇰 / 🇮🇳 Urdu (Mother Tongue)  
-- 🕋 Arabic (Reading)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 [AI Zero-Trust Kubernetes Framework](https://github.com/khwajanawaz/ai-zero-trust-kubernetes-deployment)
+
+> Secure Kubernetes deployment gateway combining AI, OPA, Temporal and human approval.
+
+| Layer | Technology |
+|---|---|
+| API | FastAPI |
+| Workflow | Temporal |
+| Security | OPA + AI analysis |
+| Runtime | Docker + Kubernetes |
+| Cloud | Amazon EKS |
+
+`Zero Trust` `AI Risk Analysis` `Policy-as-Code` `Human Approval`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🚀 [Production DevOps Platform](https://github.com/khwajanawaz/Production-Grade-DevOps-CI-CD-Platform-with-GitOps-Kubernetes-Zero-Downtime-Deployment)
+
+> Production-style CI/CD, GitOps, observability and disaster recovery platform.
+
+| Layer | Technology |
+|---|---|
+| CI/CD | Jenkins + GitHub |
+| GitOps | Argo CD |
+| Runtime | Docker + Kubernetes |
+| Security | Trivy |
+| Recovery | Velero + S3 |
+
+`Blue-Green` `GitOps` `Monitoring` `Disaster Recovery`
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### ☁️ [Kubernetes Benchmarking Platform](https://github.com/khwajanawaz/cloud_computing-project)
+
+> Reproducible Kubernetes performance and observability environment.
+
+| Area | Technology |
+|---|---|
+| Cluster | MicroK8s |
+| Monitoring | Prometheus + Grafana |
+| Metrics | Node Exporter |
+| Workload | Java + Python |
+| Automation | Shell scripts |
+
+`Benchmarking` `Observability` `Load Testing` `Kubernetes`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🌍 [IoT Edge Cloud ML Pipeline](https://github.com/khwajanawaz/IoT-Edge-Cloud-Machine-Learning-Pipeline)
+
+> Real-time IoT data processing and machine-learning pipeline across edge and cloud.
+
+| Layer | Technology |
+|---|---|
+| Messaging | MQTT + RabbitMQ |
+| Services | Docker |
+| Processing | Python |
+| ML | Prophet + TensorFlow Lite |
+| Visualisation | Matplotlib |
+
+`IoT` `Edge Computing` `Machine Learning` `Microservices`
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Let’s Connect
+## `~/current-focus` — What I Am Working On
 
-- 📧 **Email:** [khwajanawaz82@gmail.com](mailto:khwajanawaz82@gmail.com)  
-- 💼 **GitHub:** [github.com/khwajanawaz](https://github.com/khwajanawaz)  
-- 🔗 **LinkedIn:** [Khwaja Nawaz](https://www.linkedin.com/in/khwaja-nawaz-389579244/)
+```text
+☁️  Designing secure AWS and Kubernetes architectures
+⚙️  Building automated CI/CD and GitOps workflows
+🔐  Exploring AI-assisted cloud security and Zero-Trust systems
+🐳  Improving Docker and Kubernetes production deployments
+📊  Implementing observability using Prometheus and Grafana
+🏗️  Advancing Terraform and Infrastructure-as-Code skills
+🤖  Learning Agentic AI, MCP and LLM infrastructure automation
+```
 
 ---
 
-> *“Driven by purpose. Empowered by automation. Building secure, scalable cloud systems that actually ship to production.”*
+## `~/research` — Research Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud_Computing-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AIOps-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevSecOps-EF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zero_Trust-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform_Engineering-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workflow_Orchestration-F59E0B?style=for-the-badge" />
+</p>
+
+---
+
+## `~/education` — Academic Background
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🎓 MSc Cloud Computing
+
+**Newcastle University**  
+United Kingdom
+
+Focus areas:
+
+- Cloud-native systems
+- Kubernetes
+- Distributed systems
+- DevOps and automation
+- Cloud security
+- MSc dissertation research
+
+    </td>
+    <td width="50%">
+
+### 🎓 B.Tech Computer Science & Engineering
+
+**Dr. M.G.R. Educational and Research Institute**  
+Chennai, India
+
+Foundation in:
+
+- Software engineering
+- Programming
+- Computer networks
+- Databases
+- Cloud and distributed systems
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## `~/stats` — GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khwajanawaz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Khwaja Nawaz GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khwajanawaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=khwajanawaz&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khwajanawaz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies"/>
+</p>
+
+---
+
+## `~/activity` — Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khwajanawaz&bg_color=0d1117&color=00d9ff&line=7c3aed&point=f97316&area=true&hide_border=true&custom_title=Khwaja%20Nawaz%27s%20Contribution%20Graph" width="100%" alt="Contribution graph"/>
+</p>
+
+---
+
+## `~/languages` — Languages
+
+```text
+🇬🇧 English       Professional working proficiency
+🇵🇰 Urdu          Native / Mother tongue
+🇮🇳 Hindi         Fluent
+🇮🇳 Tamil         Fluent
+🕋 Arabic         Reading proficiency
+```
+
+---
+
+## `~/connect` — Find Me Online
+
+<p align="center">
+  <a href="https://github.com/khwajanawaz">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/khwaja-nawaz-389579244/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:khwajanawaz82@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💬 Engineering Philosophy
+
+> **“Building secure, intelligent and scalable cloud-native systems through DevOps, Kubernetes, AI and automation.”**
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:3F51B5,100:8E2DE2&height=120&section=footer" width="100%" />
+</p>
